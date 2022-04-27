@@ -12,7 +12,7 @@ Watch the graph and listen to the sounds. In minutes your rowers will be rowing 
 
 Next step: quick catches! Good luck, that's on you!
 
-<center>[![Apple App Store Badge](AppStore.png)](https://apps.apple.com/us/app/metrownome-a-rowing-metronome/id561712660)</center>
+<center>[<img src="AppStore.png" alt="Apple App Store Badge">](https://apps.apple.com/us/app/metrownome-a-rowing-metronome/id561712660)</center>
 
 ### Technical Support
 
