@@ -1,6 +1,6 @@
 ## Ready All!!!
 
-<center>![metrownome screen shot]("./iPhone12ProMax-01_Timer.png")</center>
+<center>![metrownome]("./iPhone12ProMax-01_Timer.png")</center>
 
 - Have a difficult time teaching the concept of ratio?
 - Want to perform drills with a known rate?
