@@ -1,5 +1,7 @@
 ## Ready All!!!
 
+<center>![metrownome screen shot](iPhone 12 Pro Max-01_Timer.png)</center>
+
 - Have a difficult time teaching the concept of ratio?
 - Want to perform drills with a known rate?
 - Need to reduce check in your boat?
