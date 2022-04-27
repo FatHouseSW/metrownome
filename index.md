@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Ready All!!!
 
-You can use the [editor on GitHub](https://github.com/FatHouseSW/metrownome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Have a difficult time teaching the concept of ratio?
+- Want to perform drills with a known rate?
+- Need to reduce check in your boat?
+- Need audio and visual feedback on your stroke rate and ratio?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Metrownome is here to help. 
 
-### Markdown
+Set a stroke rate. Choose a ratio. Hit Start. 
+Watch the graph and listen to the sounds. In minutes your rowers will be rowing along to the metronome with perfect ratio. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Next step: quick catches! Good luck, that's on you! 
 
-```markdown
-Syntax highlighted code block
+### Technical Support
 
-# Header 1
-## Header 2
-### Header 3
+If you have any issues with Metrownome, please don't hesitate to contact me:
+- Twitter: [@FatHouseSoftware](https://twitter.com/FatHouseSW) or [@MetrownomeApp](https://twitter.com/MetrownomeApp)
+- Email: [rowing-metronome@fathousesoftware.com](mailto:rowing-metronome@fathousesoftware.com)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FatHouseSW/metrownome/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
