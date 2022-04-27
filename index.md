@@ -10,7 +10,9 @@ Metrownome is here to help.
 Set a stroke rate. Choose a ratio. Hit Start. 
 Watch the graph and listen to the sounds. In minutes your rowers will be rowing along to the metronome with perfect ratio. 
 
-Next step: quick catches! Good luck, that's on you! 
+Next step: quick catches! Good luck, that's on you!
+
+<center>![AppStore.png](https://apps.apple.com/us/app/metrownome-a-rowing-metronome/id561712660)</center>
 
 ### Technical Support
 
