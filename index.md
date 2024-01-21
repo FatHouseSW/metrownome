@@ -19,6 +19,5 @@ Next step: quick catches! Good luck, that's on you!
 ### Technical Support
 
 If you have any issues with Metrownome, please don't hesitate to contact me:
-- Twitter: [@FatHouseSoftware](https://twitter.com/FatHouseSW) or [@MetrownomeApp](https://twitter.com/MetrownomeApp)
 - Email: [rowing-metronome@fathousesoftware.com](mailto:rowing-metronome@fathousesoftware.com)
 
